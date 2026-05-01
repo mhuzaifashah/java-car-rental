@@ -1,4 +1,4 @@
-# RentSystem — Car Rental Management System
+# Car Rental Management System
 
 A desktop Java Swing application for managing car rentals, built with NetBeans and Apache Ant.
 
